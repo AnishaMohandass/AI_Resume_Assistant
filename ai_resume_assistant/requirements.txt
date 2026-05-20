@@ -1,0 +1,11 @@
+langchain==0.3.25
+langchain-community
+langchain-huggingface
+langgraph
+faiss-cpu
+sentence-transformers
+pypdf
+transformers
+torch
+accelerate
+sentencepiece
