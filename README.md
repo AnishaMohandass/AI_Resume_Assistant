@@ -20,4 +20,5 @@ Implemented
 * embeddings
 * semantic search
 * agent orchestration
+
 to create an end-to-end Generative AI application.
